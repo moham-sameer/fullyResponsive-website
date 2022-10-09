@@ -6,11 +6,6 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
  </p>
 
-
-## Features:
-
-* I have used an Api and created a responsive weather app.
-*  you can search weather of the world by cityname, state/province or country.
 ## Deployed On:
    <p align="left">  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" alt="tailwind" width="90" height="80"/> </a> </p>
    
