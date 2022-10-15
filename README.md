@@ -1,4 +1,4 @@
-#  Responsive :rocket:
+#  Responsive website:rocket:
 
 [Visit now](https://msamweb.netlify.app)
 
